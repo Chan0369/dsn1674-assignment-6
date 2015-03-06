@@ -5,3 +5,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+header {
+  background-color: #2b3951;
+}
+
+h1 {
+  color: #fff;
+  background-color: #1a2230;
+  text-align: center;
+  padding: 2em;
+  font-family: 'Contrail One', cursive;
+}
